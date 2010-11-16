@@ -7,5 +7,5 @@
   * Added support for Install to SD Card
 
 == Bug fixes ==
-  * [http://code.google.com/p/mathdoku/issues/detail?id=3 Issue 3] - Ocassionally (very rarely) fails to create a complete puzzle
+  * Ocassionally (very rarely) fails to create a complete puzzle (issue 3)
   * Rare Force Close after installing new version (Issue 4)
