@@ -1,0 +1,11 @@
+#summary A detailed list of changes in each version.
+
+= Version 1.6 =
+
+== Enhancements ==
+  * All puzzles now have a unique solution (Issue 2)
+  * Added support for Install to SD Card
+
+== Bug fixes ==
+  * [http://code.google.com/p/mathdoku/issues/detail?id=3 Issue 3] - Ocassionally (very rarely) fails to create a complete puzzle
+  * Rare Force Close after installing new version (Issue 4)
