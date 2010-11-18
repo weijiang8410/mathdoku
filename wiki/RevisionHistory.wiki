@@ -10,3 +10,4 @@
   * Ocassionally (very rarely) fails to create a complete puzzle (issue 3)
   * Rare Force Close after installing new version (Issue 4)
   * First time use of Alternate Theme option has no effect (Issue 5)
+  * Long press when no board is showing results in Force Close (Issue 8)
