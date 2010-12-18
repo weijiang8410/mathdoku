@@ -4,7 +4,7 @@
 
 == Enhancements ==
   * Added Check Progress feature (Issue 9)
-  * Maybe numbers shown in a 3x3 square
+  * Maybe numbers shown in a 3x3 square (Issue 6)
 
 = Version 1.6 =
 
