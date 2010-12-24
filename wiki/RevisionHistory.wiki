@@ -8,6 +8,7 @@
 
 == Bug fixes ==
   * Puzzle doesn't fill screen on tablet (Issue 16)
+  * 'Maybe' and 'clear' buttons disappear on >4x4 grid because of overflow on small screen (Issue 14)
 
 = Version 1.6 =
 
