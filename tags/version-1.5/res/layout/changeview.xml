@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+	<ScrollView android:id="@+id/aboutscrollview" 
+		android:orientation="vertical"
+		android:layout_width="fill_parent" 
+		android:layout_height="fill_parent">    
+		<LinearLayout
+		    android:orientation="vertical"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent">
+			<TextView android:text="Thanks for installing Mathdoku for Android."
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:paddingLeft="15px"		
+				android:layout_gravity="center_vertical"
+				android:textColor="#ffffff" />	
+			<TextView android:text="Changes: "
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"		
+				android:paddingTop="15px"
+				android:paddingLeft="15px"
+				android:textStyle="bold"
+				android:textColor="#ffffff" />
+			<TextView android:text="v1.5: Now with context menu on game grid."
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:paddingLeft="15px"			
+				android:textColor="#ffffa0" />
+				
+			<TextView android:text="v1.4: Fixed display problems. Added 'clear all'"
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:paddingLeft="15px"			
+				android:textColor="#ffffff" />
+			<TextView android:text="v1.3: Crash fix. 'Click' sound effects."
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:paddingLeft="15px"			
+				android:textColor="#ffffff" />
+			<TextView android:text="v1.2: Bug fixes, default theme change."
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:paddingLeft="15px"			
+				android:textColor="#ffffff" />
+			<TextView android:text="v1.1: Gameplay and appearance improvements."
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:paddingLeft="15px"			
+				android:textColor="#ffffff" />
+			<TextView android:text="v1.0: Initial version."
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:paddingLeft="15px"			
+				android:textColor="#ffffff" />
+			<TextView android:text="Bugs/requests? "
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:paddingTop="15px"
+				android:paddingLeft="15px"
+				android:textStyle="bold"
+				android:textColor="#ffffff" />	
+			<TextView
+				android:text="Please report any issues or requests to the project page:\n\nhttp://mathdoku.googlecode.com/"
+				android:layout_width="fill_parent" 
+				android:layout_height="wrap_content"
+				android:paddingLeft="15px"
+				android:autoLink="web"
+				android:textColorLink="#ffffe0"			
+				android:textColor="#ffffff" />	
+			</LinearLayout>
+		</ScrollView>			
+</LinearLayout>
