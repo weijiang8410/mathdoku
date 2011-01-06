@@ -1,5 +1,10 @@
 #summary A detailed list of changes in each version.
 
+= Version 1.8 =
+== Enhancements ==
+  * Added 9x9 grid (Issue 7)
+
+
 = Version 1.7 =
 
 == Enhancements ==
