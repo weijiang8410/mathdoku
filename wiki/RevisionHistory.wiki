@@ -5,6 +5,7 @@
 == Enhancements ==
   * Added Check Progress feature (Issue 9)
   * Maybe numbers shown in a 3x3 square (Issue 6)
+  * Added explicit support for large (Tablet) and small screen devices
 
 == Bug fixes ==
   * Puzzle doesn't fill screen on tablet (Issue 16)
