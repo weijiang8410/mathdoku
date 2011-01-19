@@ -3,8 +3,9 @@
 = Version 1.8 =
 == Enhancements ==
   * Added 9x9 grid (Issue 7)
-  * Option to hide operations signs (Issue 13)
-  * Added Dutch translation (Issue 24)
+  * Added option to hide operations signs (Issue 13)
+  * Added option to control positioning of maybe numbers (Issue 26)
+  * Dutch translation (Issue 24)
 
 
 = Version 1.7 =
