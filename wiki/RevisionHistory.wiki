@@ -1,6 +1,25 @@
 #summary A detailed list of changes in each version.
 
+= Version 1.95 (including subversions) =
+
+== Enhancements ==
+  * Theme and appearance improvements (version 1.95)
+  * Simple timer (version 1.95)
+  * Option to disable time (version 1.95a)
+
+== Bug fixes ==
+  * Small screen device layout fixes (version 1.95d)
+  * Fix a startup crash (version 1.95c)
+  * Fix a startup crash (version 1.95b)
+  * Timer bug fixes (version 1.95a)
+
+= Version 1.9 =
+
+== Bug fixes ==
+ * Undocumented
+
 = Version 1.8 =
+
 == Enhancements ==
   * Added 9x9 grid (Issue 7)
   * Added option to hide operations signs (Issue 13)
@@ -31,3 +50,27 @@
   * First time use of Alternate Theme option has no effect (Issue 5)
   * Long press when no board is showing results in Force Close (Issue 8)
   * L shaped pieces now used in 8x8 grids (Issue 11)
+
+= Version 1.5 =
+
+Now with context menu on game grid
+
+= Version 1.4 =
+
+Fixed display problems. Added 'clear all'
+
+= Version 1.3 =
+
+Crash fix. 'Click' sound effects
+
+= Version 1.2 =
+
+Bug fixes, default theme change
+
+= Version 1.1 =
+
+Gameplay and appearance improvements
+
+= Version 1.0 =
+
+Initial version
