@@ -1,0 +1,38 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Currently we are developing our next release of MathDoku which will include revision 78 and above. 
+
+The description below will be moved to the [RevisionHistory Revision History] after releasing to Google Play. The list of bug fixes only describe fixes for releases which have been released to Google Play.
+
+
+= Version 1.96 =
+
+== Enhancements ==
+ 
+ * Screens for all devices have been rewritten to display buttons as big as possible (issue 44). Tablets are now better supported (issue 47, issue 63).
+ * Prepared for more easy translation into other languages.
+ * The maybe checkbox has been removed. Toggling the input mode (entering a definitive versus a maybe value) is now done by tapping the text "Mode: definitive" or "Mode: maybe" or by tapping the selected cell once more. (issue 42)
+ * Improved algortihm for determining the cage operator (issue 29, issue 62).
+ * Improved scrolling for stored games.
+ * Added undo functionality (issue 22).
+ * Improved puzzle generation:
+   * Added new shapes for cages
+   * Added an option to allow cages with 5 or 6 cells.
+ * Changed order of item in the context menu (long click on a cell in the puzzle). Only items that are applicable are shown.
+ * In case a game with hidden operators is played, the cage operator can be revealed via the context menu.
+ * Hide menu items when not applicable.
+ * Cheat information is now stored and made visible again when the game is loaded.
+ * The timer is not visible anymore in case the option "Show solution" has been used.
+ * Added new option to clear redundant maybe values automatically.
+ * Timer does not display hours as long as less than 1 hour is played.
+ * Display a message in case a digit is tapped but no cell was selected yet.
+
+== Bugfixes ==
+  * Maybe values will always be displayed inside cell (issue 106)
+  * Remaining english text in dutch translation have been translated.
+  * In case a puzzle is solved, no cell or cage will be displayed as selected (issue 75).
+  * Borders of cells and the selected cage are shown correctly and consistently (issue 48, issue 55, issue 58).
+  * The solved message will only be shown after a game has been solved.
+  * The timer is visible after a puzzle is solved (issue 46).
