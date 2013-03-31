@@ -30,7 +30,7 @@ $ svn commit
 Sync your branch with the trunk, so your branch doesn’t fall behind:
 
 {{{
-$ svn merge https://thrust.googlecode.com/svn/trunk/
+$ svn merge https://mathdoku.googlecode.com/svn/trunk/
 --- Merging r3452 through r3580 into '.':
 U button.c
 U integer.c
@@ -47,8 +47,8 @@ Repeat the prior two steps until you’re done coding.
 Merge your branch back into the trunk:
 
 {{{
-$ svn switch https://thrust.googlecode.com/svn/trunk/
-$ svn merge --reintegrate https://thrust.googlecode.com/svn/branches/YOUR_BRANCH_NAME
+$ svn switch https://mathdoku.googlecode.com/svn/trunk/
+$ svn merge --reintegrate https://mathdoku.googlecode.com/svn/branches/YOUR_BRANCH_NAME
 --- Merging differences between repository URLs into '.':
 U button.c
 U integer.c
