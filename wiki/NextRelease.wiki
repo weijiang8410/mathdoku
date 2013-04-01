@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Release notes for next release to Google Play
 
 = Introduction =
 
@@ -28,6 +28,9 @@ The description below will be moved to the [RevisionHistory Revision History] af
  * Added new option to clear redundant maybe values automatically.
  * Timer does not display hours as long as less than 1 hour is played.
  * Display a message in case a digit is tapped but no cell was selected yet.
+ * Changelog refers to this page.
+ * Added logging functionality. Users are requested to help developers of MathDoku after completing a number of games. No personal data is collected. Neither will data be transferred without consent of the user.
+ * Added a German translation.
 
 == Bugfixes ==
   * Maybe values will always be displayed inside cell (issue 106)
