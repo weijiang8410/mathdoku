@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Catcher page for wiki references to MathDoku
 #labels Phase-Support
 
 = MathDoku =
