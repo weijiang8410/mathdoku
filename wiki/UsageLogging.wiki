@@ -19,11 +19,11 @@ You can easily view the data collected before actually send the data to our emai
 
 = Sharing data =
 
-= What will happen if I don't want to share my data? =
+== What will happen if I don't want to share my data? ==
 
 Of course we hope and encourage you to share your data with us. But nothing will happen in case you don't want to share. You can still continu to play the game like you did before.
 
-= Why is data send by email? =
+== Why is data send by email? ==
 
 MathDoku has acquired minimal permissions when installed. Therefore the app is not able to send any data without your consent. For easy of use we prepare an email message for you containing an attachment with data collected. This email will no be sent until you click the send button.
 
@@ -39,6 +39,6 @@ We only collect some basic information about the way you use the current version
 
 Yes, of course. In case you do not fill in your email address we will not send our survey to you. We will not use the email address you have used to sent us your data.
 
-= When will I receive the survey? =
+== When will I receive the survey? ==
 
 At this moment we don't know when the survey will be sent.
