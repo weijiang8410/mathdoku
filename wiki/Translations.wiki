@@ -7,5 +7,6 @@ If you would like to provide a translation for MathDoku (and are willing to help
 All translations are gratefully received!
 
 = Current Translations =
-|| Lanugage || Translation by || Since Version ||
-|| Dutch || Pimm Hogeling || 1.8 ||
+|| Lanugage || Since Version ||
+|| Dutch || 1.8 ||
+|| German || 1.96 ||
