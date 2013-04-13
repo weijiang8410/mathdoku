@@ -30,7 +30,10 @@ The description below will be moved to the [RevisionHistory Revision History] af
  * Display a message in case a digit is tapped but no cell was selected yet.
  * Changelog refers to this page.
  * Added logging functionality. Users are requested to help developers of MathDoku after completing a number of games. No personal data is collected. Neither will data be transferred without consent of the user.
- * Added a German translation.
+ * Added German translation.
+ * Added tips.
+ * Changed colors in the newspaper theme.
+ * Text "Press menu ..." is replaced with button "New game".
 
 == Bugfixes ==
   * Maybe values will always be displayed inside cell (issue 106)
