@@ -1,36 +1,37 @@
 #summary Logging of usage of MathDoku
 #labels Phase-Support
 
-= Why do we log information? =
+= Why does the application log information? =
 
-In version 1.96 of MathDoku we gather data about the way you play MathDoku. We want to know which functions of MathDoku are actually used. This information will be used to decide upon features we will build in upcoming versions.
+In version 1.96 of MathDoku, the application saves anonymous data about the way you play MathDoku. The developers are interested in which functions of MathDoku are actually used. This information will be used to decide upon features to build in upcoming versions.
 
 == What information is collected? ==
 
-We gather information about follwing:
+The application saves information about the following:
  * The Android version
  * The size of your screen
  * The number of games stored
- * Functions you use
+ * Which options you use
 
-We guarrantee that no personal data is collected.
+We guarantee that no personal data is collected.
 
-You can easily view the data collected before actually send the data to our email adddress.
+You can easily view the data collected before actually sending it via email.
 
 = Sharing data =
 
 == What will happen if I don't want to share my data? ==
 
-Of course we hope and encourage you to share your data with us. But nothing will happen in case you don't want to share. You can still continu to play the game like you did before.
+Of course we encourage you to share your usage data with us. But it has no affect if you choose not to. You can still continue to play the game as normal.
 
-== Why is data send by email? ==
+== Why is data sent by email? ==
 
-MathDoku has acquired minimal permissions when installed. Therefore the app is not able to send any data without your consent. For easy of use we prepare an email message for you containing an attachment with data collected. This email will no be sent until you click the send button.
+MathDoku requires minimal permissions when installed. Therefore the app is not able to send any data without your consent. For easy of use it prepares an email message for you containing an attachment with the usage data collected. This email will not be sent until you click the send button.
 
-We will not use your email address in any way in case you sent us your log file.
+If you send us your log file, we will not use your email address in any way, except to reply to you if you send additional comments / questions in the email message.
+
 
 = Survey =
-
+(For future use)
 == Why am I asked to fill in an survey? ==
 
 We only collect some basic information about the way you use the current version of the app. We have some big plans for the future versions of MathDoku. We want to involve our users in future development.
