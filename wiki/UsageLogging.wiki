@@ -21,7 +21,7 @@ You can easily view the data collected before actually sending it via email.
 
 == What will happen if I don't want to share my data? ==
 
-Of course we encourage you to share your usage data with us. But it has no affect if you choose not to. You can still continue to play the game as normal.
+Of course we encourage you to share your usage data with us. But it has no effect if you choose not to. You can still continue to play the game as normal.
 
 == Why is data sent by email? ==
 
