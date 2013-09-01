@@ -17,11 +17,11 @@ Version 2 of MathDoku is only available for Android 3+.
  * Added an archive with all games played.
  * Added different complexity levels for the puzzles. Upon starting a game, a complexity level has to be chosen.
  * Puzzles can be shared via email with other users.
- * Digit buttons have been removed. Digits are now selected by swiping.
+ * Digit buttons have been removed. Digits are now selected by swiping. The selected cell will be surround with two circles containing selectable digits. The outer circle can be disabled in the settings.
  * Added an option to use the same color for maybe and normal digits.
  * Upgraded style of app to the lastest guidelines.
  * Puzzles can be replayed.
- * The input mode will be switched between normal and maybe in case a cell is double tapped within a short time frame.
+ * The current state of the input mode is displayed via a orange/blue dot above the grid. The input mode switches on double tapping a cell within a short time frame. Also the input mode dot above the grid can be touched to switch input mode.
 
 == Minor importance ==
 
