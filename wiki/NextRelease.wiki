@@ -7,39 +7,12 @@ Currently we are developing our next release of MathDoku which will include revi
 The description below will be moved to the [RevisionHistory Revision History] after releasing to Google Play. The list of bug fixes only describe fixes for releases which have been released to Google Play.
 
 
-= Version 2.00 =
+= Version 2.1.0 =
 
 Version 2 of MathDoku is only available for Android 3+.
 
 == Major importance ==
 
- * Added statistics for all games played.
- * Added an archive with all games played.
- * Added different complexity levels for the puzzles. Upon starting a game, a complexity level has to be chosen.
- * Puzzles can be shared via email with other users.
- * Digit buttons have been removed. Digits are now selected by swiping. The selected cell will be surround with two circles containing selectable digits. The outer circle can be disabled in the settings.
- * Added an option to use the same color for maybe and normal digits.
- * Upgraded style of app to the lastest guidelines.
- * Puzzles can be replayed.
- * The current state of the input mode is displayed via a orange/blue dot above the grid. The input mode switches on double tapping a cell within a short time frame. Also the input mode dot above the grid can be touched to switch input mode.
-
 == Minor importance ==
 
- * Allow cancellation of the grid generating parameters dialog.
- * The tip dialogs are shown at a more intuitive pace.
- * Removed the "Cheat" message which was shown each time a cheat is used.
- * Using cheats is discouraged by adding a penalty time to the total time played.
- * Removed options, menu items and the carved theme which were used very little.
- * Improved the dark theme.
- * Added additional tips.
- * Added function to send feedback (including a screen print) to the developers.
- * Added option to play in full screen mode.
- * Show a confirmation dialog before revealing the solution of the puzzle.
- * Moved items from the context menu (long press on the grid) to the normal menu. Items in the menu are only displayed in case they can be used as that moment.
-
-
 == Bug fixes ==
- * Size of text on tablets enhanced to normal sizes.
- * When undo or clear is used the duplicate warning and bad cage math are checked and removed if necessary.
- * A cage consisting of a single cell is no longer marked with the invalid cage math border in case an incorrect value is entered.
- * The clear button now also clears the maybe values from a cell.
