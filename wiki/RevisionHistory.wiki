@@ -1,5 +1,12 @@
 #summary A detailed list of changes in each version.
 
+= Version 2.1 =
+
+ * Layout improvements across all devices.
+ * Swipe circle is now optional.
+ * Random difficulty option.
+ * Added buttons for maybe, undo, clear.
+
 = Version 2.0.0 =
 
 Version 2 of MathDoku is only available for Android 3+.
